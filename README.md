@@ -1,2 +1,2 @@
 ## dsAlgo
-**01** [Group Assignment](./dsAlgo/cpp/001.cpp)
+**01** [Group Assignment](./cpp/001.cpp)
