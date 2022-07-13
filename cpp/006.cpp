@@ -1,6 +1,6 @@
 /*
-    Journey of the Knight 2
-    https://www.codechef.com/problems/KNIGHT2
+    Bidding
+    https://www.codechef.com/problems/AUCTION
 
                               .:/`./:.
                            `:+/+: :+++/:`
@@ -39,25 +39,30 @@
 
 */
 
+
 #include <bits/stdc++.h>
 using namespace std;
+
+void bidding(int A, int B, int C) {
+  if (A > B && A > C) {
+    cout << "ALICE" << endl;
+  }
+  else if (B > A && B > C) {
+    cout << "BOB" << endl;
+  }
+  else if (C > A && C > B) {
+    cout << "CHARLIE" << endl;
+  }
+}
 
 int main() {
   int t;
   cin >> t;
   while (t--) {
-    int x1, y1, x2, y2;
-    cin >> x1 >> y1 >> x2 >> y2;
-    int x = abs(x1 - x2);
-    int y = abs(y1 - y2);
-    if ((x % 2 != 0 && y % 2 != 0) || (x % 2 == 0 && y % 2 == 0)) {
-      cout << "YES" << endl;
-    }
-    else {
-      cout << "NO" << endl;
-    }
+    int A, B, C;
+    cin >> A >> B >> C;
+    bidding(A, B, C);
   }
 
   return 0;
 }
-
