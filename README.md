@@ -8,6 +8,8 @@
 **07** : [Pass the Exam](./cpp/007.cpp) </br>
 **08** : [Chef and Candies](./cpp/008.cpp) </br>
 **09** : [Chef On Date](./cpp/009.cpp) </br>
+**10** : [Chess Time](./cpp/010.cpp) </br>
+
 
 
 
