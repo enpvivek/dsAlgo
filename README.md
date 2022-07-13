@@ -10,7 +10,9 @@
 **09** : [Chef On Date](./cpp/009.cpp) </br>
 **10** : [Chess Time](./cpp/010.cpp) </br>
 **11** : [Minimum Coins](./cpp/011.cpp) </br>
-**12** : [Minimum Coins](./cpp/012.cpp) </br>
+**12** : [End Sorted](./cpp/012.cpp) </br>
+**13** : [Construct N](./cpp/013.cpp) </br>
+
 
 
 
