@@ -9,6 +9,8 @@
 **08** : [Chef and Candies](./cpp/008.cpp) </br>
 **09** : [Chef On Date](./cpp/009.cpp) </br>
 **10** : [Chess Time](./cpp/010.cpp) </br>
+**11** : [Minimum Coins](./cpp/011.cpp) </br>
+
 
 
 
