@@ -14,6 +14,8 @@
 **13** : [Construct N](./cpp/013.cpp) </br>
 **14** : [ATM Machine](./cpp/014.cpp) </br>
 **15** : [Zero Ones Equal One Zeros](./cpp/015.cpp) </br>
+**16** : [Chef and Dolls](./cpp/016.cpp) </br>
+
 
 
 

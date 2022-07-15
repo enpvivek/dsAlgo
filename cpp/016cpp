@@ -1,6 +1,6 @@
 /*
-    Zero Ones Equal One Zeros
-    https://www.codechef.com/submit/ZOOZ
+    Chef and Dolls
+    https://www.codechef.com/submit/MISSP
 
                               .:/`./:.
                            `:+/+: :+++/:`
@@ -43,30 +43,12 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void zeroOne(int n) {
-  if (n == 3) {
-    cout << "010" << endl;
+int chefAndDolls(int arr[], int n) {
+  int res = 0;
+  for (int i = 0; i < n; i++) {
+    res = res ^ arr[i];
   }
-  else if (n == 4) {
-    cout << "1001" << endl;
-  }
-  else if (n % 2 == 0) {
-    cout << "10";
-    for (int i = 0; i < n - 4; i++) {
-      cout << "0";
-    }
-    cout << "01" << endl;
-  }
-  else if (n % 2 != 0) {
-    for (int i = 0; i < n / 2; i++) {
-      cout << "0";
-    }
-    cout << "1";
-    for (int i = 0; i < n / 2; i++) {
-      cout << "0";
-    }
-    cout << "\n";
-  }
+  return res;
 }
 
 int main() {
@@ -75,7 +57,11 @@ int main() {
   while (t--) {
     int n;
     cin >> n;
-    zeroOne(n);
+    int arr[n];
+    for (int i = 0; i < n; i++) {
+      cin >> arr[i];
+    }
+    cout << chefAndDolls(arr, n) << endl;
   }
 
   return 0;
