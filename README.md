@@ -12,6 +12,8 @@
 **11** : [Minimum Coins](./cpp/011.cpp) </br>
 **12** : [End Sorted](./cpp/012.cpp) </br>
 **13** : [Construct N](./cpp/013.cpp) </br>
+**14** : [ATM Machine](./cpp/014.cpp) </br>
+
 
 
 
