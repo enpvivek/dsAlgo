@@ -22,7 +22,9 @@
 **21** : [Interior Design](./cpp/021.cpp) </br>
 **22** : [True and False Paper](./cpp/022cpp) </br>
 **23** : [The Last Levels](./cpp/023cpp) </br>
-**24** : [The Last Levels](./cpp/024cpp) </br>
+**24** : [Easy Pronunciation ](./cpp/024cpp) </br>
+**25** : [Easy Pronunciation ](./cpp/025cpp) </br>
+
 
 
 
