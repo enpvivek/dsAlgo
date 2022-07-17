@@ -1,6 +1,6 @@
 /*
-    Interior Design
-    https://www.codechef.com/LTIME110D/problems/INTRDSGN
+    True and False Paper
+    https://www.codechef.com/LTIME110D/problems/TFPAPER
 
                               .:/`./:.
                            `:+/+: :+++/:`
@@ -43,23 +43,17 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int interiorDesign(int x1, int y1, int x2, int y2) {
-  //cout << (x1 + y1) << " " << (x2 + y2) << endl;
-  if ((x1 + y1 ) < (x2 + y2)) {
-    return (x1 + y1);
-  } else
-  {
-    return x2 + y2;
-  }
+int tfpaper(int n, int k) {
+  return n - k;
 }
 
 int main() {
   int T;
   cin >> T;
   while (T--) {
-    int x1, y1, x2, y2;
-    cin >> x1 >> y1 >> x2 >> y2;
-    cout << interiorDesign(x1, y1, x2, y2) << endl;
+    int n, k;
+    cin >> n >> k;
+    cout << tfpaper(n, k) << endl;
   }
 
 

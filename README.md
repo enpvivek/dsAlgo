@@ -19,7 +19,9 @@
 **18** : [How much Scholarship](./cpp/018.cpp) </br>
 **19** : [A Problem on Sticks](./cpp/019.cpp) </br>
 **20** : [Ups and Downs](./cpp/020.cpp) </br>
-**21** : [Ups and Downs](./cpp/020.cpp) </br>
+**21** : [Interior Design](./cpp/021.cpp) </br>
+**22** : [True and False Paper](./cpp/022cpp) </br>
+
 
 
 
