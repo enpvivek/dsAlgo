@@ -17,6 +17,8 @@
 **16** : [Chef and Dolls](./cpp/016.cpp) </br>
 **17** : [Danny Wants To Know](./cpp/017.cpp) </br>
 **18** : [How much Scholarship](./cpp/018.cpp) </br>
+**19** : [How much Scholarship](./cpp/019.cpp) </br>
+
 
 
 
