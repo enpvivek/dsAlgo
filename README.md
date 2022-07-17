@@ -15,7 +15,9 @@
 **14** : [ATM Machine](./cpp/014.cpp) </br>
 **15** : [Zero Ones Equal One Zeros](./cpp/015.cpp) </br>
 **16** : [Chef and Dolls](./cpp/016.cpp) </br>
-**17** : [Chef and Dolls](./cpp/017.cpp) </br>
+**17** : [Danny Wants To Know](./cpp/017.cpp) </br>
+**18** : [How much Scholarship](./cpp/018.cpp) </br>
+
 
 
 
