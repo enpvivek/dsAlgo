@@ -28,6 +28,8 @@
 **27** : [Adjacent Sum Parity](./cpp/027cpp) </br>
 **28** : [Passes for Fair](./cpp/028cpp) </br>
 **29** : [Fill Candies](./cpp/029cpp) </br>
+**30** : [Buy Lamps](./cpp/030cpp) </br>
+
 
 
 
