@@ -24,7 +24,9 @@
 **23** : [The Last Levels](./cpp/023cpp) </br>
 **24** : [Easy Pronunciation ](./cpp/024cpp) </br>
 **25** : [Largest Family](./cpp/025cpp) </br>
-**26** : [Largest Family](./cpp/026cpp) </br>
+**26** : [Snake Procession](./cpp/026cpp) </br>
+**27** : [Adjacent Sum Parity](./cpp/027cpp) </br>
+
 
 
 
