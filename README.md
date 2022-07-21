@@ -26,6 +26,8 @@
 **25** : [Largest Family](./cpp/025cpp) </br>
 **26** : [Snake Procession](./cpp/026cpp) </br>
 **27** : [Adjacent Sum Parity](./cpp/027cpp) </br>
+**28** : [Adjacent Sum Parity](./cpp/028cpp) </br>
+
 
 
 
