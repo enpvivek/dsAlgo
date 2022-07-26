@@ -29,7 +29,9 @@
 **28** : [Passes for Fair](./cpp/028cpp) </br>
 **29** : [Fill Candies](./cpp/029cpp) </br>
 **30** : [Buy Lamps](./cpp/030cpp) </br>
-**31** : [Buy Lamps](./cpp/031cpp) </br>
+**31** : [Fill The Grid](./cpp/031cpp) </br>
+**32** : [Average Number](./cpp/032cpp) </br>
+
 
 
 
