@@ -32,6 +32,8 @@
 **31** : [Fill The Grid](./cpp/031cpp) </br>
 **32** : [Average Number](./cpp/032cpp) </br>
 **33** : [Insurance](./cpp/033cpp) </br>
+**34** : [To Divide or Not To Divide](./cpp/034cpp) </br>
+
 
 
 
