@@ -33,6 +33,8 @@
 **32** : [Average Number](./cpp/032cpp) </br>
 **33** : [Insurance](./cpp/033cpp) </br>
 **34** : [To Divide or Not To Divide](./cpp/034cpp) </br>
+**35** : [Packaging Cupcakes](./cpp/035cpp) </br>
+
 
 
 
