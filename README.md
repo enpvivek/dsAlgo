@@ -30,13 +30,16 @@
 **29** : [Fill Candies](./cpp/029.cpp) </br>
 **30** : [Buy Lamps](./cpp/030.cpp) </br>
 **31** : [Fill The Grid](./cpp/031.cpp) </br>
-**32** : [Average Number](./cpp/032cpp) </br>
-**33** : [Insurance](./cpp/033cpp) </br>
+**32** : [Average Number](./cpp/032.cpp) </br>
+**33** : [Insurance](./cpp/033.cpp) </br>
 **34** : [To Divide or Not To Divide](./cpp/034.cpp) </br>
-**35** : [Packaging Cupcakes](./cpp/035cpp) </br>
-**36** : [Chef Diet](./cpp/036cpp) </br>
+**35** : [Packaging Cupcakes](./cpp/035.cpp) </br>
+**36** : [Chef Diet](./cpp/036c.pp) </br>
 **37** : [Break the Stick](./cpp/037.cpp) </br>
 **38** : [Program Your Own CALCULATOR](./cpp/038.cpp) </br>
+**39** : [Program Your Own CALCULATOR](./cpp/039.cpp) </br>
+
+
 
 
 
