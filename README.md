@@ -37,7 +37,9 @@
 **36** : [Chef Diet](./cpp/036c.pp) </br>
 **37** : [Break the Stick](./cpp/037.cpp) </br>
 **38** : [Program Your Own CALCULATOR](./cpp/038.cpp) </br>
-**39** : [Program Your Own CALCULATOR](./cpp/039.cpp) </br>
+**39** : [Bear and Candies 123](./cpp/039.cpp) </br>
+**40** : [Encoding Message](./cpp/040.cpp) </br>
+
 
 
 
