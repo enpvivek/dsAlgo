@@ -39,6 +39,9 @@
 **38** : [Program Your Own CALCULATOR](./cpp/038.cpp) </br>
 **39** : [Bear and Candies 123](./cpp/039.cpp) </br>
 **40** : [Encoding Message](./cpp/040.cpp) </br>
+**41** : [Elections in Chefland](./cpp/041.cpp) </br>
+
+
 
 
 
