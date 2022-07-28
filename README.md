@@ -45,7 +45,9 @@
 **44** : [Airline Restrictions](./cpp/044.cpp) </br>
 **45** : [Weight Balance](./cpp/045.cpp) </br>
 **46** : [Is it hot or cold](./cpp/046.cpp) </br>
-**47** : [Is it hot or cold](./cpp/047.cpp) </br>
+**47** : [Maximise the Tastiness](./cpp/047.cpp) </br>
+**48** : [Maximise the Tastiness](./cpp/048.cpp) </br>
+
 
 
 
