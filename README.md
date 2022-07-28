@@ -41,7 +41,9 @@
 **40** : [Encoding Message](./cpp/040.cpp) </br>
 **41** : [Elections in Chefland](./cpp/041.cpp) </br>
 **42** : [Buying New Tablet](./cpp/042.cpp) </br>
-**43** : [Buying New Tablet](./cpp/043.cpp) </br>
+**43** : [Even-tual Reduction](./cpp/043.cpp) </br>
+**44** : [Airline Restrictions](./cpp/044.cpp) </br>
+
 
 
 
