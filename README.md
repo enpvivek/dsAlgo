@@ -40,6 +40,8 @@
 **39** : [Bear and Candies 123](./cpp/039.cpp) </br>
 **40** : [Encoding Message](./cpp/040.cpp) </br>
 **41** : [Elections in Chefland](./cpp/041.cpp) </br>
+**42** : [Elections in Chefland](./cpp/042.cpp) </br>
+
 
 
 
