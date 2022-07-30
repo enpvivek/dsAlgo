@@ -49,7 +49,9 @@
 **48** : [N Buttons 1 Bulb](./cpp/048.cpp) </br>
 **49** : [Valid Minimum](./cpp/049.cpp) </br>
 **50** : [Chef and Game with Sequence](./cpp/050.cpp) </br>
-**51** : [Chef and Game with Sequence](./cpp/051.cpp) </br>
+**51** : [Chef and his Students](./cpp/051.cpp) </br>
+**52** : [Cutting Recipes](./cpp/052.cpp) </br>
+
 
 
 
