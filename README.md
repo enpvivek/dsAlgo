@@ -48,7 +48,9 @@
 **47** : [Maximise the Tastiness](./cpp/047.cpp) </br>
 **48** : [N Buttons 1 Bulb](./cpp/048.cpp) </br>
 **49** : [Valid Minimum](./cpp/049.cpp) </br>
-**50** : [Valid Minimum](./cpp/050.cpp) </br>
+**50** : [Chef and Game with Sequence](./cpp/050.cpp) </br>
+**51** : [Chef and Game with Sequence](./cpp/051.cpp) </br>
+
 
 
 
