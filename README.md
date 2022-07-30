@@ -52,6 +52,8 @@
 **51** : [Chef and his Students](./cpp/051.cpp) </br>
 **52** : [Cutting Recipes](./cpp/052.cpp) </br>
 **53** : [Minimum Attendance Requirement](./cpp/053.cpp) </br>
+**54** : [Minimum Attendance Requirement](./cpp/054.cpp) </br>
+
 
 
 
