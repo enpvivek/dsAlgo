@@ -57,6 +57,8 @@
 **56** : [Broken Telephone](./cpp/056.cpp) </br>
 **57** : [ICPC Balloons](./cpp/057.cpp) </br>
 **58** : [Weapon Value](./cpp/058.cpp) </br>
+**59** : [Drumpf for President!](./cpp/059.cpp) </br>
+
 
 
 
