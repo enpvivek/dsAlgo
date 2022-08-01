@@ -54,7 +54,9 @@
 **53** : [Minimum Attendance Requirement](./cpp/053.cpp) </br>
 **54** : [Candy Love](./cpp/054.cpp) </br>
 **55** : [Equal Card Game](./cpp/055.cpp) </br>
-**56** : [Equal Card Game](./cpp/056.cpp) </br>
+**56** : [Broken Telephone](./cpp/056.cpp) </br>
+**57** : [Broken Telephone](./cpp/057.cpp) </br>
+
 
 
 
