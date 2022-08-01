@@ -55,7 +55,9 @@
 **54** : [Candy Love](./cpp/054.cpp) </br>
 **55** : [Equal Card Game](./cpp/055.cpp) </br>
 **56** : [Broken Telephone](./cpp/056.cpp) </br>
-**57** : [Broken Telephone](./cpp/057.cpp) </br>
+**57** : [ICPC Balloons](./cpp/057.cpp) </br>
+**58** : [Weapon Value](./cpp/058.cpp) </br>
+
 
 
 
