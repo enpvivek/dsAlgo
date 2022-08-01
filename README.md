@@ -58,6 +58,8 @@
 **57** : [ICPC Balloons](./cpp/057.cpp) </br>
 **58** : [Weapon Value](./cpp/058.cpp) </br>
 **59** : [Drumpf for President!](./cpp/059.cpp) </br>
+**60** : [Drumpf for President!](./cpp/060.cpp) </br>
+
 
 
 
