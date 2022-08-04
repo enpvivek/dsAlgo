@@ -64,6 +64,8 @@
 **63** : [Problem Category](./cpp/063.cpp) </br>
 **64** : [Richie Rich](./cpp/064.cpp) </br>
 **65** : [Hoop Jump](./cpp/065.cpp) </br>
+**66** : [Hoop Jump](./cpp/066.cpp) </br>
+
 
 
 
