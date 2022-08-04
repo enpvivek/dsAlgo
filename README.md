@@ -62,7 +62,9 @@
 **61** : [Chef and digits of a number](./cpp/061.cpp) </br>
 **62** : [New Piece](./cpp/062.cpp) </br>
 **63** : [Problem Category](./cpp/063.cpp) </br>
-**64** : [Problem Category](./cpp/064.cpp) </br>
+**64** : [Richie Rich](./cpp/064.cpp) </br>
+**65** : [Hoop Jump](./cpp/065.cpp) </br>
+
 
 
 
