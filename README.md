@@ -65,7 +65,9 @@
 **64** : [Richie Rich](./cpp/064.cpp) </br>
 **65** : [Hoop Jump](./cpp/065.cpp) </br>
 **66** : [Vaccine Dates](./cpp/066.cpp) </br>
-**67** : [Vaccine Dates](./cpp/067.cpp) </br>
+**67** : [Chef and Spells](./cpp/067.cpp) </br>
+**68** : [Chef and Spells](./cpp/068.cpp) </br>
+
 
 
 
