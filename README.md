@@ -61,7 +61,9 @@
 **60** : [ATM](./cpp/060.cpp) </br>
 **61** : [Chef and digits of a number](./cpp/061.cpp) </br>
 **62** : [New Piece](./cpp/062.cpp) </br>
-**63** : [New Piece](./cpp/063.cpp) </br>
+**63** : [Problem Category](./cpp/063.cpp) </br>
+**64** : [Problem Category](./cpp/064.cpp) </br>
+
 
 
 
