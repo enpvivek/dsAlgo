@@ -67,7 +67,9 @@
 **66** : [Vaccine Dates](./cpp/066.cpp) </br>
 **67** : [Chef and Spells](./cpp/067.cpp) </br>
 **68** : [Chef and Stock Prices](./cpp/068.cpp) </br>
-**69** : [Chef and Stock Prices](./cpp/069.cpp) </br>
+**69** : [Maximum Length Even Subarray](./cpp/069.cpp) </br>
+**70** : [Maximum Length Even Subarray](./cpp/070.cpp) </br>
+
 
 
 
