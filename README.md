@@ -66,7 +66,9 @@
 **65** : [Hoop Jump](./cpp/065.cpp) </br>
 **66** : [Vaccine Dates](./cpp/066.cpp) </br>
 **67** : [Chef and Spells](./cpp/067.cpp) </br>
-**68** : [Chef and Spells](./cpp/068.cpp) </br>
+**68** : [Chef and Stock Prices](./cpp/068.cpp) </br>
+**69** : [Chef and Stock Prices](./cpp/069.cpp) </br>
+
 
 
 
