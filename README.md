@@ -60,7 +60,9 @@
 **59** : [Drumpf for President!](./cpp/059.cpp) </br>
 **60** : [ATM](./cpp/060.cpp) </br>
 **61** : [Chef and digits of a number](./cpp/061.cpp) </br>
-**62** : [Chef and digits of a number](./cpp/062.cpp) </br>
+**62** : [New Piece](./cpp/062.cpp) </br>
+**63** : [New Piece](./cpp/063.cpp) </br>
+
 
 
 
