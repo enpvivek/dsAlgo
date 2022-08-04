@@ -68,7 +68,9 @@
 **67** : [Chef and Spells](./cpp/067.cpp) </br>
 **68** : [Chef and Stock Prices](./cpp/068.cpp) </br>
 **69** : [Maximum Length Even Subarray](./cpp/069.cpp) </br>
-**70** : [Maximum Length Even Subarray](./cpp/070.cpp) </br>
+**70** : [Motivation](./cpp/070.cpp) </br>
+**71** : [Two Dishes](./cpp/071.cpp) </br>
+
 
 
 
