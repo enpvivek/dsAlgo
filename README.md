@@ -73,7 +73,9 @@
 **72** : [Smallest Possible Whole Number](./cpp/072.cpp) </br>
 **73** : [Turn It](./cpp/073.cpp) </br>
 **74** : [Distinct Pair Sums](./cpp/074.cpp) </br>
-**75** : [Distinct Pair Sums](./cpp/075.cpp) </br>
+**75** : [Mileage matters](./cpp/075.cpp) </br>
+**76** : [Nearest Court](./cpp/076.cpp) </br>
+
 
 
 
