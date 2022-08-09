@@ -76,7 +76,9 @@
 **75** : [Mileage matters](./cpp/075.cpp) </br>
 **76** : [Nearest Court](./cpp/076.cpp) </br>
 **77** : [Discount](./cpp/077.cpp) </br>
-**78** : [Discount](./cpp/078.cpp) </br>
+**78** : [Chef and IPC Certificates](./cpp/078.cpp) </br>
+**79** : [Chef and IPC Certificates](./cpp/079.cpp) </br>
+
 
 
 
