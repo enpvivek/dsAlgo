@@ -84,7 +84,9 @@
 **83** : [Carvans](./cpp/083.cpp) </br>
 **84** : [Make them equal](./cpp/084.cpp) </br>
 **85** : [Nobel Prize](./cpp/085.cpp) </br>
-**86** : [Nobel Prize](./cpp/086.cpp) </br>
+**86** : [Hard Cash](./cpp/086.cpp) </br>
+**87** : [Hard Cash](./cpp/087.cpp) </br>
+
 
 
 
