@@ -85,7 +85,9 @@
 **84** : [Make them equal](./cpp/084.cpp) </br>
 **85** : [Nobel Prize](./cpp/085.cpp) </br>
 **86** : [Hard Cash](./cpp/086.cpp) </br>
-**87** : [Hard Cash](./cpp/087.cpp) </br>
+**87** : [Chef and String](./cpp/087.cpp) </br>
+**88** : [Chef and String](./cpp/088.cpp) </br>
+
 
 
 
