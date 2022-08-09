@@ -79,7 +79,9 @@
 **78** : [Chef and IPC Certificates](./cpp/078.cpp) </br>
 **79** : [Chef in Vaccination Queue](./cpp/079.cpp) </br>
 **80** : [A Subtask Problem](./cpp/080.cpp) </br>
-**81** : [A Subtask Problem](./cpp/081.cpp) </br>
+**81** : [Cops and the Thief Devu](./cpp/081.cpp) </br>
+**82** : [Cops and the Thief Devu](./cpp/082.cpp) </br>
+
 
 
 
