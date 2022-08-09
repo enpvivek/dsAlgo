@@ -70,6 +70,8 @@
 **69** : [Maximum Length Even Subarray](./cpp/069.cpp) </br>
 **70** : [Motivation](./cpp/070.cpp) </br>
 **71** : [Two Dishes](./cpp/071.cpp) </br>
+**72** : [Smallest Possible Whole Number](./cpp/072.cpp) </br>
+
 
 
 
