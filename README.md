@@ -86,7 +86,9 @@
 **85** : [Nobel Prize](./cpp/085.cpp) </br>
 **86** : [Hard Cash](./cpp/086.cpp) </br>
 **87** : [Chef and String](./cpp/087.cpp) </br>
-**88** : [Chef and String](./cpp/088.cpp) </br>
+**88** : [Making a Meal](./cpp/088.cpp) </br>
+**89** : [Making a Meal](./cpp/089.cpp) </br>
+
 
 
 
