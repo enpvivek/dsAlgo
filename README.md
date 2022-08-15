@@ -93,7 +93,9 @@
 **92** : [Coronavirus Spread](./cpp/092.cpp) </br>
 **93** : [Odd Repeat](./cpp/093.cpp) </br>
 **94** : [Maximum Submissions](./cpp/094.cpp) </br>
-**95** : [Maximum Submissions](./cpp/095.cpp) </br>
+**95** : [Sale Season](./cpp/095.cpp) </br>
+**96** : [Sale Season](./cpp/096.cpp) </br>
+
 
 
 
