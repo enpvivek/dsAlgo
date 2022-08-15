@@ -91,7 +91,9 @@
 **90** : [Jumping in the hills](./cpp/090.cpp) </br>
 **91** : [Version Control System](./cpp/091.cpp) </br>
 **92** : [Coronavirus Spread](./cpp/092.cpp) </br>
-**93** : [Coronavirus Spread](./cpp/093.cpp) </br>
+**93** : [Odd Repeat](./cpp/093.cpp) </br>
+**94** : [Odd Repeat](./cpp/094.cpp) </br>
+
 
 
 
