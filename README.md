@@ -94,7 +94,9 @@
 **93** : [Odd Repeat](./cpp/093.cpp) </br>
 **94** : [Maximum Submissions](./cpp/094.cpp) </br>
 **95** : [Sale Season](./cpp/095.cpp) </br>
-**96** : [Sale Season](./cpp/096.cpp) </br>
+**96** : [Make A and B equal](./cpp/096.cpp) </br>
+**97** : [Make A and B equal](./cpp/097.cpp) </br>
+
 
 
 
