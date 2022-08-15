@@ -92,7 +92,9 @@
 **91** : [Version Control System](./cpp/091.cpp) </br>
 **92** : [Coronavirus Spread](./cpp/092.cpp) </br>
 **93** : [Odd Repeat](./cpp/093.cpp) </br>
-**94** : [Odd Repeat](./cpp/094.cpp) </br>
+**94** : [Maximum Submissions](./cpp/094.cpp) </br>
+**95** : [Maximum Submissions](./cpp/095.cpp) </br>
+
 
 
 
