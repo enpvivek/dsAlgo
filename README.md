@@ -99,7 +99,9 @@
 **98** : [Hello Equation](./cpp/098.cpp) </br>
 **99** : [Vaccine Distribution](./cpp/099.cpp) </br>
 **100** : [Chef and Coupon](./cpp/100.cpp) </br>
-**101** : [Chef and Coupon](./cpp/101.cpp) </br>
+**101** : [AI Analysing Code](./cpp/101.cpp) </br>
+**102** : [AI Analysing Code](./cpp/102.cpp) </br>
+
 
 
 
