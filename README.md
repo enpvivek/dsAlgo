@@ -102,7 +102,9 @@
 **101** : [AI Analysing Code](./cpp/101.cpp) </br>
 **102** : [Air Conditioner Temperature](./cpp/102.cpp) </br>
 **103** : [WA Test Cases](./cpp/103.cpp) </br>
-**104** : [WA Test Cases](./cpp/104.cpp) </br>
+**104** : [Minimum Sum](./cpp/104.cpp) </br>
+**105** : [Minimum Sum](./cpp/105.cpp) </br>
+
 
 
 
