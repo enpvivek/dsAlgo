@@ -97,6 +97,8 @@
 **96** : [Make A and B equal](./cpp/096.cpp) </br>
 **97** : [Two Trains](./cpp/097.cpp) </br>
 **98** : [Hello Equation](./cpp/098.cpp) </br>
+**99** : [Vaccine Distribution](./cpp/099.cpp) </br>
+
 
 
 
