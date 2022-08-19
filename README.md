@@ -101,7 +101,9 @@
 **100** : [Chef and Coupon](./cpp/100.cpp) </br>
 **101** : [AI Analysing Code](./cpp/101.cpp) </br>
 **102** : [Air Conditioner Temperature](./cpp/102.cpp) </br>
-**103** : [Air Conditioner Temperature](./cpp/103.cpp) </br>
+**103** : [WA Test Cases](./cpp/103.cpp) </br>
+**104** : [WA Test Cases](./cpp/104.cpp) </br>
+
 
 
 
