@@ -105,7 +105,9 @@
 **104** : [Minimum Sum](./cpp/104.cpp) </br>
 **105** : [Brackets](./cpp/105.cpp) </br>
 **106** : [Simple Statistics](./cpp/106.cpp) </br>
-**107** : [Simple Statistics](./cpp/107.cpp) </br>
+**107** : [Chef and Party](./cpp/107.cpp) </br>
+**108** : [Chef and Party](./cpp/108.cpp) </br>
+
 
 
 
