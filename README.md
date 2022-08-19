@@ -98,6 +98,8 @@
 **97** : [Two Trains](./cpp/097.cpp) </br>
 **98** : [Hello Equation](./cpp/098.cpp) </br>
 **99** : [Vaccine Distribution](./cpp/099.cpp) </br>
+**100** : [Chef and Coupon](./cpp/100.cpp) </br>
+
 
 
 
