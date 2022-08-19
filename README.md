@@ -104,7 +104,9 @@
 **103** : [WA Test Cases](./cpp/103.cpp) </br>
 **104** : [Minimum Sum](./cpp/104.cpp) </br>
 **105** : [Brackets](./cpp/105.cpp) </br>
-**106** : [Brackets](./cpp/106.cpp) </br>
+**106** : [Simple Statistics](./cpp/106.cpp) </br>
+**107** : [Simple Statistics](./cpp/107.cpp) </br>
+
 
 
 
