@@ -119,7 +119,9 @@
 **118** : [Array Equality](./cpp/118.cpp) </br>
 **119** : [Chef and Bored Games](./cpp/119.cpp) </br>
 **120** : [Weights](./cpp/120.cpp) </br>
-**121** : [Weights](./cpp/121.cpp) </br>
+**121** : [Black&White Ring Game](./cpp/121.cpp) </br>
+**122** : [Black&White Ring Game](./cpp/122.cpp) </br>
+
 
 
 
