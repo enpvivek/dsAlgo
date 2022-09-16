@@ -114,7 +114,9 @@
 **113** : [Mighty Friend](./cpp/113.cpp) </br>
 **114** : [B - Valentine Couples](./cpp/114.cpp) </br>
 **115** : [Candy Distribution](./cpp/115.cpp) </br>
-**116** : [Candy Distribution](./cpp/116.cpp) </br>
+**116** : [Equalizing Numbers](./cpp/116.cpp) </br>
+**117** : [Equalizing Numbers](./cpp/117.cpp) </br>
+
 
 
 
