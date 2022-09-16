@@ -122,7 +122,9 @@
 **121** : [Black&White Ring Game](./cpp/121.cpp) </br>
 **122** : [Chef and Girlfriend](./cpp/122.cpp) </br>
 **123** : [Hotel Bytelandia](./cpp/123.cpp) </br>
-**124** : [Hotel Bytelandia](./cpp/124.cpp) </br>
+**124** : [Broken Phone](./cpp/124.cpp) </br>
+**125** : [Broken Phone](./cpp/125.cpp) </br>
+
 
 
 
