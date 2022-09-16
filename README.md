@@ -117,7 +117,9 @@
 **116** : [Equalizing Numbers](./cpp/116.cpp) </br>
 **117** : [Easy Permutation](./cpp/117.cpp) </br>
 **118** : [Array Equality](./cpp/118.cpp) </br>
-**119** : [Array Equality](./cpp/119.cpp) </br>
+**119** : [Chef and Bored Games](./cpp/119.cpp) </br>
+**120** : [Chef and Bored Games](./cpp/120.cpp) </br>
+
 
 
 
