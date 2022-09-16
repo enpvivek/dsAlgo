@@ -110,7 +110,11 @@
 **109** : [EVM Hacking](./cpp/109.cpp) </br>
 **110** : [Average Permutation](./cpp/110.cpp) </br>
 **111** : [Fit to Play](./cpp/111.cpp) </br>
-**112** : [Fit to Play](./cpp/121.cpp) </br>
+**112** : [Remove Element](./cpp/112.cpp) </br>
+**113** : [Mighty Friend](./cpp/113.cpp) </br>
+**114** : [Mighty Friend](./cpp/114.cpp) </br>
+
+
 
 
 
