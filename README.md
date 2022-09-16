@@ -124,7 +124,9 @@
 **123** : [Hotel Bytelandia](./cpp/123.cpp) </br>
 **124** : [Broken Phone](./cpp/124.cpp) </br>
 **125** : [Permutation Clear](./cpp/125.cpp) </br>
-**126** : [Permutation Clear](./cpp/126.cpp) </br>
+**126** : [Balls and Boxes](./cpp/126.cpp) </br>
+**127** : [Balls and Boxes](./cpp/127.cpp) </br>
+
 
 
 
