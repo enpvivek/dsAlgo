@@ -115,7 +115,9 @@
 **114** : [B - Valentine Couples](./cpp/114.cpp) </br>
 **115** : [Candy Distribution](./cpp/115.cpp) </br>
 **116** : [Equalizing Numbers](./cpp/116.cpp) </br>
-**117** : [Equalizing Numbers](./cpp/117.cpp) </br>
+**117** : [Easy Permutation](./cpp/117.cpp) </br>
+**118** : [Easy Permutation](./cpp/118.cpp) </br>
+
 
 
 
