@@ -116,7 +116,9 @@
 **115** : [Candy Distribution](./cpp/115.cpp) </br>
 **116** : [Equalizing Numbers](./cpp/116.cpp) </br>
 **117** : [Easy Permutation](./cpp/117.cpp) </br>
-**118** : [Easy Permutation](./cpp/118.cpp) </br>
+**118** : [Array Equality](./cpp/118.cpp) </br>
+**119** : [Array Equality](./cpp/119.cpp) </br>
+
 
 
 
