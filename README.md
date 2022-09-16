@@ -112,7 +112,9 @@
 **111** : [Fit to Play](./cpp/111.cpp) </br>
 **112** : [Remove Element](./cpp/112.cpp) </br>
 **113** : [Mighty Friend](./cpp/113.cpp) </br>
-**114** : [Mighty Friend](./cpp/114.cpp) </br>
+**114** : [B - Valentine Couples](./cpp/114.cpp) </br>
+**115** : [Candy Distribution](./cpp/115.cpp) </br>
+
 
 
 
