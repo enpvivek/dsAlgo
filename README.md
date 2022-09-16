@@ -123,7 +123,9 @@
 **122** : [Chef and Girlfriend](./cpp/122.cpp) </br>
 **123** : [Hotel Bytelandia](./cpp/123.cpp) </br>
 **124** : [Broken Phone](./cpp/124.cpp) </br>
-**125** : [Broken Phone](./cpp/125.cpp) </br>
+**125** : [Permutation Clear](./cpp/125.cpp) </br>
+**126** : [Permutation Clear](./cpp/126.cpp) </br>
+
 
 
 
