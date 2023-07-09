@@ -125,7 +125,9 @@
 **124** : [Broken Phone](./cpp/124.cpp) </br>
 **125** : [Permutation Clear](./cpp/125.cpp) </br>
 **126** : [Balls and Boxes](./cpp/126.cpp) </br>
-**127** : [Balls and Boxes](./cpp/127.cpp) </br>
+**127** : [Mean and Median](./cpp/127.cpp) </br>
+**128** : [Smart Phone](./cpp/128.cpp) </br>
+
 
 
 
